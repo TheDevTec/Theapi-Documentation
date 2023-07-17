@@ -1,6 +1,8 @@
 ---
 
+<p align="center">
 <img align="center" src="https://github.com/TheDevTec/Theapi-Documentation/assets/73041364/0d2a8de3-f35f-4bea-a675-5d8ba0be6271"></img>
+</p>
 
 ---
 
